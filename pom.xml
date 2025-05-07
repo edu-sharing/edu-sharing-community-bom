@@ -28,6 +28,9 @@
 
   <properties>
 
+    <!-- git extension controlled props -->
+    <project.version.base>git</project.version.base>
+
     <!-- release-3 -->
     <bom.repository.version>${project.version}</bom.repository.version>
     <bom.repository-antivirus.version>${project.version}</bom.repository-antivirus.version>
@@ -38,7 +41,7 @@
     <bom.repository-remote.version>${project.version}</bom.repository-remote.version>
     <bom.repository-transform.version>${project.version}</bom.repository-transform.version>
     <bom.services-rendering.version>${project.version}</bom.services-rendering.version>
-    <bom.services-rendering2.version>${project.version}</bom.services-rendering2.version>
+    <bom.services-rendering2.version>${project.version.base}</bom.services-rendering2.version>
     <bom.services-connector.version>${project.version}</bom.services-connector.version>
 
   </properties>
@@ -163,6 +166,7 @@
         <bom.repository-remote.version>${project.version}</bom.repository-remote.version>
         <bom.repository-transform.version>${project.version}</bom.repository-transform.version>
         <bom.services-rendering.version>${project.version}</bom.services-rendering.version>
+        <bom.services-rendering2.version>${project.version.base}</bom.services-rendering2.version>
         <bom.services-connector.version>${project.version}</bom.services-connector.version>
       </properties>
     </profile>
