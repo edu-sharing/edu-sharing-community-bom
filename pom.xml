@@ -34,7 +34,7 @@
     <bom.repository-kafka.version>9.1.1-RC2</bom.repository-kafka.version>
     <bom.repository-remote.version>9.1.1-RC2</bom.repository-remote.version>
     <bom.repository-transform.version>9.1.1-RC2</bom.repository-transform.version>
-    <bom.services-rendering.version>9.1.1-RC2</bom.services-rendering.version>
+    <bom.services-rendering.version>9.1.1-RC3</bom.services-rendering.version>
     <bom.services-connector.version>9.1.0</bom.services-connector.version>
 
   </properties>
