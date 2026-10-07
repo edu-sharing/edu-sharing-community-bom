@@ -38,7 +38,7 @@
     <bom.repository-remote.version>10.0.5-RC0</bom.repository-remote.version>
     <bom.repository-transform.version>10.0.5-RC0</bom.repository-transform.version>
     <bom.services-rendering.version>10.0.5-RC0</bom.services-rendering.version>
-    <bom.services-rendering2.version>10.0.5-RC2</bom.services-rendering2.version>
+    <bom.services-rendering2.version>10.0.5-RC3</bom.services-rendering2.version>
     <bom.services-connector.version>10.0.5-RC1</bom.services-connector.version>
 
   </properties>
